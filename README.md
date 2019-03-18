@@ -25,5 +25,11 @@ project root folder. Output file will be in the footer too.
 - Get the input file from FXCM
 - Copy it to the project root folder
 - Change the name in the _inputFile_ variable
-- Execute this Java program
-- Enjoy the output file in the root folder
+- Execute this Java program at the project root:
+
+```
+javac  src/fi/tr/f2m/Converter.java
+java -cp src fi.tr.f2m.Converter
+```
+
+Enjoy the output file in the root folder!
