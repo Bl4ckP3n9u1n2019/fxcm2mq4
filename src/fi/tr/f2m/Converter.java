@@ -37,7 +37,7 @@ import java.util.List;
  */
 public class Converter {
 
-	static String inputFile = "2009_2018_US30_1min_bid.csv";
+	static String inputFile = "example_1.csv";
 
 	static SimpleDateFormat inputDateFormatter = new SimpleDateFormat("MM/dd/yyyy");
 	static SimpleDateFormat outputDateFormatter = new SimpleDateFormat("yyyy.MM.dd");
