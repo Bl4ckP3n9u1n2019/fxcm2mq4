@@ -1,6 +1,6 @@
-## FXCM2MQ¤
+## FXCM2MQ4
 
-Takes CSV export file from _FXCM Simple Export Tool_. Returns _Meta Trader 4_ compatible
+Takes CSV export file from _FXCM Simple Export Tool_. Converts it to the _Meta Trader 4_ compatible
 CSV import file.
  
 Example input format: 
@@ -21,9 +21,9 @@ project root folder. Output file will be in the footer too.
  
 ### How to run
 
-- Clone/download the project to your computer
+- Clone/download this project to your computer
 - Get the input file from FXCM
 - Copy it to the project root folder
-- Change the name in the inputFile variable
+- Change the name in the _inputFile_ variable
 - Execute this Java program
 - Enjoy the output file in the root folder
