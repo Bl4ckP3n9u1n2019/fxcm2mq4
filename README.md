@@ -1,6 +1,6 @@
 ## FXCM2MQ¤
 
-Takes CSV export file from FXCM Simple Export Tool. Returns MQ4 compatible
+Takes CSV export file from _FXCM Simple Export Tool_. Returns _Meta Trader 4_ compatible
 CSV import file.
  
 Example input format: 
